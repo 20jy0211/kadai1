@@ -78,7 +78,7 @@ public class CreateBasicShapes {
 
       EZ.addRectangle(xCenter, yCenter, width, height, color, fillStatus);
     } //end for i <= 6
-
+    //
   } //end main
 } //end class
 
